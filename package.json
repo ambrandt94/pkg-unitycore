@@ -1,0 +1,20 @@
+{
+    "name": "com.chainlink.pkg-unitycore",
+    "displayName": "ChainLink Core Unity Tools",
+    "version": "0.0.1",
+    "description": "Tools primarily used by ChainLink Interactive",
+    "dependencies": {},
+    "homepage": "https://github.com/3d-group/unity-package-template.git",
+    "bugs": {
+      "url": "https://github.com/3d-group/unity-package-template/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/3d-group/unity-package-template.git"
+    },
+    "license": "MIT",
+    "author": "3D Group (https://3d.fi/)",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
