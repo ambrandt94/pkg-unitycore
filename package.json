@@ -1,7 +1,7 @@
 {
     "name": "com.chainlink.pkg-unitycore",
     "displayName": "ChainLink Core Unity Tools",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Tools primarily used by ChainLink Interactive",
     "dependencies": {},
     "homepage": "https://github.com/3d-group/unity-package-template.git",
