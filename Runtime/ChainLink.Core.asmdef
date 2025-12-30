@@ -1,0 +1,16 @@
+{
+    "name": "ChainLink.Core",
+    "rootNamespace": "ChainLink.Core",
+    "references": [
+        "EasySave3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
